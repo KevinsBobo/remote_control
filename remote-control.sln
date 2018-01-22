@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remote-control", "remote-control\remote-control.vcxproj", "{5445E0DE-26F2-4E43-98DC-58683DDB75C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "local-client", "local-client\local-client.vcxproj", "{E928E77D-02E2-4ACA-96A1-22431AA0FB71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5445E0DE-26F2-4E43-98DC-58683DDB75C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5445E0DE-26F2-4E43-98DC-58683DDB75C3}.Debug|Win32.Build.0 = Debug|Win32
+		{5445E0DE-26F2-4E43-98DC-58683DDB75C3}.Release|Win32.ActiveCfg = Release|Win32
+		{5445E0DE-26F2-4E43-98DC-58683DDB75C3}.Release|Win32.Build.0 = Release|Win32
+		{E928E77D-02E2-4ACA-96A1-22431AA0FB71}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E928E77D-02E2-4ACA-96A1-22431AA0FB71}.Debug|Win32.Build.0 = Debug|Win32
+		{E928E77D-02E2-4ACA-96A1-22431AA0FB71}.Release|Win32.ActiveCfg = Release|Win32
+		{E928E77D-02E2-4ACA-96A1-22431AA0FB71}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
